@@ -1,9 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Android Environment Docker Image</title>
-</head>
 <body>
     <h1>Android Environment Docker Image</h1>
     <p>This Docker image provides an environment for building Android apps. It includes OpenJDK 11, the Android SDK command line tools, and other necessary dependencies.</p>
